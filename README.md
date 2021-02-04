@@ -43,3 +43,10 @@ This section and the below table gives an overview about the places that were re
 | Detroit   | 50        |    500         |
 | Chicago   | 50        |    600         |
 | Dallas   | 40        |    400         |
+
+* * *
+### quotes
+
+> If you tell the truth, you don't have to remember anything.   ***Mark Twain***.
+
+> If smoking is not allowed in heaven, I shall not go – ***Mark Twain***.
