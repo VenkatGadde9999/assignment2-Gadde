@@ -50,3 +50,42 @@ This section and the below table gives an overview about the places that were re
 > If you tell the truth, you don't have to remember anything.   ***Mark Twain***.
 
 > If smoking is not allowed in heaven, I shall not go – ***Mark Twain***.
+
+* * *
+### Languages
+
+> Pascal is an imperative and procedural programming language, designed by Niklaus Wirth [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+
+```Pascal
+program forLoop;
+var
+   a: integer;
+
+begin
+   for a := 10  to 20 do
+   
+   begin
+      writeln('value of a: ', a);
+   end;
+end.
+```
+
+> Q is a programming language for array processing, developed by Arthur Whitney. It is proprietary software, commercialized by Kx Systems. [Q](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
+
+```Q
+var x = 0;// creating a new variable, with an initial value of 0
+for (var i = 0; i <10; i++)
+  x = x + 1;
+
+```
+
+> R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.[R](https://en.wikipedia.org/wiki/R_(programming_language))
+
+```R
+for(i in 1:10) {
+  # i-th element of `u1` squared into `i`-th position of `usq`
+  usq[i] <- u1[i]*u1[i]
+  print(usq[i])
+}
+
+```
