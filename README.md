@@ -44,6 +44,18 @@ This section and the below table gives an overview about the places that were re
 | Chicago   | 50        |    600         |
 | Dallas   | 40        |    400         |
 
+### Brookings
+
+![Brookings](images/Brookings.jpg)
+
+### Detroit
+
+![Detroit](images/Detroit.jpg)
+
+### Chicago
+
+![Chicago](images/Chicago.jpg)
+
 * * *
 ### quotes
 
