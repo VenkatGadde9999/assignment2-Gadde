@@ -31,3 +31,13 @@ looks so yummy, crispy and so cheesy. There is no better feeling in the world th
 - Learn MS SQL SERVER Dtata Base
 
 About Venkat Gadde [Venkat Gadde](AboutMe).
+
+* * *
+### Venkat Gadde recommend places
+
+This section and the below table gives an overview about the places that were recommnd by Venkat
+
+| Syntax      | Description | Description |
+| ----------- | ----------- | ----------- | 
+| Header      | Title       |             |
+| Paragraph   | Text        |             |
