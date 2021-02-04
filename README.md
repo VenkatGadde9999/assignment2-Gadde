@@ -37,7 +37,9 @@ About Venkat Gadde [Venkat Gadde](AboutMe).
 
 This section and the below table gives an overview about the places that were recommnd by Venkat
 
-| Syntax      | Description | Description |
+| Location      | No of Hours to spend | Money should expect to pay |
 | ----------- | ----------- | ----------- | 
-| Header      | Title       |             |
-| Paragraph   | Text        |             |
+| Brookings      | 10       |        $50     |
+| Detroit   | 50        |    500         |
+| Chicago   | 50        |    600         |
+| Dallas   | 40        |    400         |
